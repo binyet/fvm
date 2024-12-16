@@ -1,0 +1,39 @@
+{
+  "java": [
+    {
+      "8-amzn": "https://corretto.aws/downloads/latest/amazon-corretto-8-x64-windows-jdk.zip"
+    },
+    {
+      "11-amzn": "https://corretto.aws/downloads/latest/amazon-corretto-11-x64-windows-jdk.zip"
+    },
+    {
+      "17-amzn": "https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.zip"
+    },
+    {
+      "21-amzn": "https://corretto.aws/downloads/latest/amazon-corretto-21-x64-windows-jdk.zip"
+    },
+    {
+      "23-amzn": "https://corretto.aws/downloads/latest/amazon-corretto-23-x64-windows-jdk.zip"
+    },
+    {
+      "8-albba": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.23.22_jdk8u432-ga/Alibaba_Dragonwell_Extended_8.23.22_x64_windows.zip"
+    },
+    {
+      "11-albba": "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-standard-11.0.25.21_jdk-11.0.25-ga/Alibaba_Dragonwell_Standard_11.0.25.21.9_x64_windows.zip"
+    },
+    {
+      "17-albba": "https://github.com/dragonwell-project/dragonwell17/releases/download/dragonwell-standard-17.0.13.0.14%2B9_jdk-17.0.13-ga/Alibaba_Dragonwell_Standard_17.0.13.0.14.9_x64_windows.zip"
+    },
+    {
+      "21-albba": "https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.5.0.5%2B9_jdk-21.0.5-ga/Alibaba_Dragonwell_Standard_21.0.5.0.5.9_x64_windows.zip"
+    }
+  ],
+  "maven": [
+    {
+      "3.9.9": "https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip"
+    },
+    {
+      "3.8.8": "https://dlcdn.apache.org/maven/maven-3/3.8.8/binaries/apache-maven-3.8.8-bin.zip"
+    }
+  ]
+}
