@@ -2,7 +2,7 @@
   "profiles": {
     "fvm": {
       "commandName": "Project",
-      "commandLineArgs": "install java 8-amzn"
+      "commandLineArgs": "help"
     }
   }
 }
