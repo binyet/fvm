@@ -149,13 +149,13 @@ namespace fvm.modules.install
         {
             try
             {
-                var content = File.ReadAllText("install.json");
+                var content = File.ReadAllText(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "install.json"));
                 var versions = JsonSerializer.Deserialize<Dictionary<string, List<Dictionary<string, string>>>>(content);
                 return versions;
             }
             catch (Exception exc)
             {
-                return null;
+                return new Dictionary<string, List<Dictionary<string, string>>>();
             }
         }
 
